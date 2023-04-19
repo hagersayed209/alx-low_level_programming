@@ -40,5 +40,3 @@ if (get_op_func(op) == NULL || op[1] != '\0')
 
 	return (0);
 }
-
-
